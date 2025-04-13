@@ -6,6 +6,9 @@
 # gak, pwd:Dpktn2016
 -----
 
+from is git
+
+
 
 
 
